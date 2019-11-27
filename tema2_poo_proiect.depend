@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1574889645 source:c:\users\bianca\desktop\tema2_poo_proiect\main.cpp
+	<iostream>
+	<math.h>
+	<cstdlib>
+	<typeinfo>
+	<string.h>
+	<time.h>
+
+1574426422 source:g:\facultate\anul 2\semestrul i\poo\tema2_poo_proiect\main.cpp
+	<iostream>
+	<math.h>
+
